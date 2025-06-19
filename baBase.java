@@ -1,4 +1,4 @@
-//뱅크어카운트 기본
+git branch -M main//뱅크어카운트 기본
 class baBase {
 	public static void main(String[] args)
 			throws InterruptedException {
